@@ -40,6 +40,8 @@ I now know how to make some simple static sites with React. <3
 
 This being a solo project as a checkpoint to make sure you're learning. I haven't put as much effort into the organization of the CSS as I could, I plan to return to this in a few days/or when I have some spare time and make it much neater.
 
+I also want to get back to the project and add a toggle to the light mode too! Because, why not? :) toggles are fun after all.
+
 <hr>
 
 Good times!
