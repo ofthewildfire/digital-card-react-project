@@ -12,5 +12,7 @@ This project is a check-point for those basics.
 <hr>
 
 Live Link - https://digital-card-react.vercel.app
+<br>
 Github Repo - https://github.com/ofthewildfire/digital-card-react-project
+
 # digital-card-react-project
