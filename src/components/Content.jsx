@@ -25,7 +25,7 @@ const Content = () => {
             Email
           </a>
           <a
-            href="http://linked.com/in/kmcochrane"
+            href="http://linkedin.com/in/kmcochrane"
             target="_blank"
             rel="noopener noreferrer"
             className="linkedin-btn">
