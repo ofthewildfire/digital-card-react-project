@@ -5,8 +5,8 @@ const Interests = () => {
     <div className="interests">
       <h3>Interests</h3>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        Chip and dip expert. Reader. Internet fanatic. Vegetarian buff. Language
+        obsessed. History weirdo. Fantasy novel ninja. Tea fanatic.
       </p>
     </div>
   );
