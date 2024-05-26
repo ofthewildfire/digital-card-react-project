@@ -21,7 +21,7 @@ const Content = () => {
 
         <div className="buttons">
           <a href="mailto:kirsten.cochrane@outlook.com" className="mail-btn">
-            <img src="./src/assets/mail.png" alt="" />
+            <img src="./assets/mail.png" alt="" />
             Email
           </a>
           <a
@@ -29,7 +29,7 @@ const Content = () => {
             target="_blank"
             rel="noopener noreferrer"
             className="linkedin-btn">
-            <img src="./src/assets/linkedin.png" alt="" />
+            <img src="./assets/linkedin.png" alt="" />
             LinkedIn
           </a>
         </div>
