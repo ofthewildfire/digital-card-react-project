@@ -1,0 +1,82 @@
+/* Reset Styles */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Root Variables */
+
+:root {
+  --default-Font: "Inter Variable", sans-serif;
+  --darkBGColor: #1a1b21;
+}
+
+/**
+ *
+ * Body Styles
+ *
+ */
+
+body {
+  min-height: 100vh;
+  font-family: var(--default-Font);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card--main,
+.content-card {
+  max-width: 18.75rem;
+  width: 100%;
+  display: grid;
+  gap: 2em;
+  background-color: var(--darkBGColor);
+}
+
+.content-card {
+  padding: 2em 1em;
+  color: #dcdcdc;
+}
+h3 {
+  margin-bottom: 1em;
+  color: #fff;
+}
+
+.card-header {
+  text-align: center;
+  display: grid;
+  gap: 0.5em;
+}
+
+.buttons {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+  padding: 1em 0;
+}
+
+.linkedin-btn,
+.mail-btn {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5em;
+  gap: 1em;
+  text-decoration: none;
+  color: white;
+}
+
+.linkedin-btn {
+  background-color: blue;
+}
+
+.mail-btn {
+  background-color: grey;
+}
