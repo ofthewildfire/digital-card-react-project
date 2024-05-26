@@ -9,7 +9,11 @@ const Content = () => {
         <div className="card-header">
           <h1 className="name">Hi, I'm Kirsten</h1>
           <h2 className="job-desc">Frontend Developer</h2>
-          <a href="https://kirstencochrane.com">
+          <a
+            href="https://kirstencochrane.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="website">
             {" "}
             https://www.kirstencochrane.com
           </a>

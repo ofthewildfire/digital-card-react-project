@@ -7,6 +7,7 @@ const Image = () => {
       alt="Profile image of Laura"
       width={300}
       height={300}
+      className="profile-image"
     />
   );
 };
