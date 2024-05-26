@@ -1,8 +1,16 @@
-# React + Vite
+# React Solo Project - Digital Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+This is the first Solo project on the Scrimba React course [Scrimba React Course - Free](https://v2.scrimba.com/learn-react-c0e). In the first module, introduced to the basics of:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Making components.
+- Styling.
+
+This project is a check-point for those basics.
+
+<hr>
+
+Live Link - https://digital-card-react-nine.vercel.app/
+<br>
+Github Repo - https://github.com/ofthewildfire/digital-card-react-project
